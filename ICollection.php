@@ -22,7 +22,6 @@
  * @copyright   2012 Digitalroot
  * @license     http://www.gnu.org/copyleft/gpl.html
  * @link        http://www.digitalroot.net
- * @version     $Id: ICollection.php 516 2012-07-06 23:29:08Z nkd $
  */
 
 /**
